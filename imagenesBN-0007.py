@@ -1,3 +1,5 @@
+# Alexandro Aguilar NC = 0007
+
 # Se importan las librerias
 import cv2
 import numpy as np
@@ -18,3 +20,4 @@ print(img)
 plt.imshow(img, cmap='gray')
 plt.show()
 
+print("Programa realizado por Alexandro Aguilar NC = 0007")
